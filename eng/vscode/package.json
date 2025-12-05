@@ -92,7 +92,7 @@
     "dependencies": {
         "@microsoft/vscode-azext-utils": "~2",
         "@microsoft/vscode-azureresources-api": "~2",
-        "dayjs": "~1",
+        "dayjs": "~1.11.19",
         "dotenv": "~16",
         "rxjs": "~7",
         "semver": "~7",
