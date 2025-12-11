@@ -28,7 +28,7 @@
   "cpu": [
   ], 
   "optionalDependencies": {
-    "@azure/mcp-linux-x64": "^0.2.3"
+    "@azure/mcp-linux-x64": "^0.9.9"
   },
   "scripts": {
     "postinstall": "node ./scripts/post-install-script.js"
